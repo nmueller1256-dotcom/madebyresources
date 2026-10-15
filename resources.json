@@ -1,0 +1,4025 @@
+{
+ "source": "https://madebyresources.io",
+ "mcp": "https://mcp.madebyresources.io/mcp",
+ "count": 574,
+ "items": [
+  {
+   "name": "60fps",
+   "desc": "Recordings of interfaces that move well.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://60fps.design/"
+  },
+  {
+   "name": "Awwwards",
+   "desc": "Awards celebrating exceptional digital web craft.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.awwwards.com/"
+  },
+  {
+   "name": "Cosmos",
+   "desc": "Visual moodboarding and creative inspiration engine.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.cosmos.so/"
+  },
+  {
+   "name": "Curated Design",
+   "desc": "Web design sorted by aesthetic style.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.curated.design/"
+  },
+  {
+   "name": "Layers",
+   "desc": "Platform for sharing design work publicly.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://layers.to/"
+  },
+  {
+   "name": "Minimal Gallery",
+   "desc": "Showcase of minimal and restrained websites.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://minimal.gallery/"
+  },
+  {
+   "name": "Mobbin",
+   "desc": "Real mobile and web product flows.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://mobbin.com/"
+  },
+  {
+   "name": "Saaspo",
+   "desc": "Curated SaaS landing page designs.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.saaspo.com/"
+  },
+  {
+   "name": "SEESAW",
+   "desc": "Design inspiration organized by page section.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.seesaw.website/"
+  },
+  {
+   "name": "Supahero",
+   "desc": "Curated collection of website hero sections.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://supahero.io/"
+  },
+  {
+   "name": "Imageory",
+   "desc": "Visual gallery pairing images with prompts.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.imageory.in/"
+  },
+  {
+   "name": "Backgrounds Supply",
+   "desc": "Handcrafted website backgrounds ready to use.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://backgrounds.supply/"
+  },
+  {
+   "name": "Venust Backgrounds",
+   "desc": "Free AI-generated backgrounds with original prompts.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://backgrounds.venust.ai/"
+  },
+  {
+   "name": "Details",
+   "desc": "Micro-interaction analysis of top digital products.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.details.so/"
+  },
+  {
+   "name": "Sombra",
+   "desc": "Showcase of dark-mode website interfaces.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://sombra.design/"
+  },
+  {
+   "name": "Dribbble",
+   "desc": "Global community sharing design concepts.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://dribbble.com/"
+  },
+  {
+   "name": "Behance",
+   "desc": "Adobe showcase for creative portfolios.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.behance.net/"
+  },
+  {
+   "name": "Recent Design",
+   "desc": "Weekly selection of award-worthy websites.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://recent.design/"
+  },
+  {
+   "name": "navbar.design",
+   "desc": "Curated gallery of navigation bar patterns.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://navbar.design/"
+  },
+  {
+   "name": "footer.design",
+   "desc": "Curated gallery of creative website footers.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://footer.design/"
+  },
+  {
+   "name": "Land-book",
+   "desc": "Landing pages organized by industry.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://land-book.com/"
+  },
+  {
+   "name": "Collect UI",
+   "desc": "Daily UI inspiration tagged by component.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://collectui.com/"
+  },
+  {
+   "name": "SiteInspire",
+   "desc": "Showcase of fine web design craft.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.siteinspire.com/"
+  },
+  {
+   "name": "Lapa Ninja",
+   "desc": "Curated gallery of responsive landing pages.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.lapa.ninja/"
+  },
+  {
+   "name": "UX Archive",
+   "desc": "Historical archive of mobile onboarding flows.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://uxarchive.com/"
+  },
+  {
+   "name": "Screenlane",
+   "desc": "Searchable gallery of interface screens.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://screenlane.com/"
+  },
+  {
+   "name": "Flowbase",
+   "desc": "Premium UI components and interaction patterns.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.flowbase.co/"
+  },
+  {
+   "name": "Hover States",
+   "desc": "Showcase of innovative interactive web design.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://hoverstat.es/"
+  },
+  {
+   "name": "SaaSFrame",
+   "desc": "Hundreds of SaaS marketing page screenshots.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.saasframe.io/"
+  },
+  {
+   "name": "Landingfolio",
+   "desc": "Extensive library of landing page designs.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.landingfolio.com/"
+  },
+  {
+   "name": "Pttrns",
+   "desc": "Directory of mobile user interface patterns.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://pttrns.com/"
+  },
+  {
+   "name": "One Page Love",
+   "desc": "Showcase of single-page website designs.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://onepagelove.com/"
+  },
+  {
+   "name": "Designspiration",
+   "desc": "Creative search platform for visual art.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.designspiration.com/"
+  },
+  {
+   "name": "Best Website Gallery",
+   "desc": "Curated archive of exceptional websites.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://bestwebsite.gallery/"
+  },
+  {
+   "name": "Inspiration Grid",
+   "desc": "Online magazine celebrating creative visual design.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://theinspirationgrid.com/"
+  },
+  {
+   "name": "Scrnshts",
+   "desc": "Curated App Store screenshot designs.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://scrnshts.club/"
+  },
+  {
+   "name": "Are.na",
+   "desc": "Collaborative research and visual bookmarking platform.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.are.na/"
+  },
+  {
+   "name": "Appinspo",
+   "desc": "Curated mobile application design gallery.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.appinspo.com/"
+  },
+  {
+   "name": "Dark Mode Design",
+   "desc": "Showcase celebrating dark-mode websites.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.darkmodedesign.com/"
+  },
+  {
+   "name": "Pinterest",
+   "desc": "Visual discovery engine for creative ideas.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.pinterest.com/"
+  },
+  {
+   "name": "navbar.gallery",
+   "desc": "Focused collection of modern navigation bars.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://navbar.gallery/"
+  },
+  {
+   "name": "posts.design",
+   "desc": "Curated social media graphic design archive.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://posts.design/"
+  },
+  {
+   "name": "loadmo.re",
+   "desc": "Gallery of experimental mobile website designs.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://loadmo.re/"
+  },
+  {
+   "name": "inspora.design",
+   "desc": "Archive of contemporary visual web design.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.inspora.design/"
+  },
+  {
+   "name": "cta.gallery",
+   "desc": "Curated call-to-action button and banner designs.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://cta.gallery/"
+  },
+  {
+   "name": "desengs.com",
+   "desc": "Directory of design engineering portfolios and lore.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://desengs.com/"
+  },
+  {
+   "name": "isthereanytool",
+   "desc": "Directory of lesser-known design, craft, and AI tools.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://isthereanytool.app/"
+  },
+  {
+   "name": "designeng.tools",
+   "desc": "Curated design engineering tools, resources, and inspiration.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://designeng.tools/"
+  },
+  {
+   "name": "bestdesignsonx.com",
+   "desc": "Curated design-forward creators and posts on X.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://bestdesignsonx.com/"
+  },
+  {
+   "name": "Design Bookmark",
+   "desc": "Directory of design resources and links.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://designbookmark.com/"
+  },
+  {
+   "name": "Rebrand Gallery",
+   "desc": "Brand redesigns compared before and after.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://rebrand.gallery/"
+  },
+  {
+   "name": "Curations",
+   "desc": "Library of curated digital design assets.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://curations.supply/"
+  },
+  {
+   "name": "Landing Love",
+   "desc": "Delightful landing pages organized by animation.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://landing.love/"
+  },
+  {
+   "name": "Motionimo",
+   "desc": "Extensive library of motion design clips.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://motionimo.xyz/"
+  },
+  {
+   "name": "before.click",
+   "desc": "Showcase of high-converting app screenshot concepts.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://before.click/"
+  },
+  {
+   "name": "Swiped",
+   "desc": "Standout design posts from social platforms.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://swiped.design/"
+  },
+  {
+   "name": "Prompt Motion",
+   "desc": "Gallery of AI-made motion videos with their prompts.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.prompt-motion.com/"
+  },
+  {
+   "name": "Landdding",
+   "desc": "Daily catalogue of creative landing pages.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://landdding.com/"
+  },
+  {
+   "name": "designengineer.tools",
+   "desc": "Essential tools tailored for design engineers.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://designengineer.tools/"
+  },
+  {
+   "name": "Insposite",
+   "desc": "Directory of design references and tools.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.insposite.com/"
+  },
+  {
+   "name": "Loader Buttons",
+   "desc": "Gallery of 25 loading button animations.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://loader-buttons.appllama.io/"
+  },
+  {
+   "name": "What Ships",
+   "desc": "Standout product launch demo videos on X.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://whatships.com/"
+  },
+  {
+   "name": "GreatStuff",
+   "desc": "Carefully vetted archive of creative tools.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://greatstuff.fyi/"
+  },
+  {
+   "name": "Great Apps",
+   "desc": "Weekly gallery highlighting exceptional iOS apps.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://greatapps.fyi/"
+  },
+  {
+   "name": "Curated Domains",
+   "desc": "Brands using creative top-level domain names.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://curated.domains/"
+  },
+  {
+   "name": "Sections.wtf",
+   "desc": "Real-world website section and hero gallery.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://sections.wtf/"
+  },
+  {
+   "name": "Browse.cool",
+   "desc": "Websites chosen for exceptional tactile feel.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://browse.cool/"
+  },
+  {
+   "name": "Folios Gallery",
+   "desc": "Selective directory of outstanding designer portfolios.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://folios.gallery/"
+  },
+  {
+   "name": "wwwtf.site",
+   "desc": "Quirky and experimental interactive web corners.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://wwwtf.site/"
+  },
+  {
+   "name": "Early",
+   "desc": "Discovery platform for early-stage software products.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.early.tools/"
+  },
+  {
+   "name": "OpenAlternative",
+   "desc": "Open-source alternatives to popular SaaS tools.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://openalternative.co/"
+  },
+  {
+   "name": "Everywhere Tools",
+   "desc": "Open-source creative tools for design craft.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://everywhere.tools/"
+  },
+  {
+   "name": "Jessy In's Gallery",
+   "desc": "Collaborative moodboard of unique visual finds.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://gallery.jessyin.world/"
+  },
+  {
+   "name": "Wall of Portfolios",
+   "desc": "Design engineering and product portfolio showcases.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.wallofportfolios.in/"
+  },
+  {
+   "name": "Detail Design",
+   "desc": "Archive of thoughtful software micro-interactions.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://detail.design/"
+  },
+  {
+   "name": "Betwn Studios",
+   "desc": "Studio crafting modern SaaS web experiences.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://betwnstudios.com/"
+  },
+  {
+   "name": "SaaS Landing Page",
+   "desc": "Showcase of top SaaS landing pages.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://saaslandingpage.com/"
+  },
+  {
+   "name": "Best SaaS Web Designs",
+   "desc": "Curated inspiration gallery of SaaS website design.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://bestsaaswebdesigns.com/"
+  },
+  {
+   "name": "A1",
+   "desc": "Website design inspiration gallery.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://www.a1.gallery/"
+  },
+  {
+   "name": "Catalog",
+   "desc": "Ever-growing library of design resources by Studio Offgrid.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://catalog.design/"
+  },
+  {
+   "name": "AI UX Playground",
+   "desc": "Interactive patterns and experiments for AI interfaces.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://aiuxplayground.com/"
+  },
+  {
+   "name": "Modulify",
+   "desc": "Ready-made website templates for modern builders.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://modulify.ai/templates"
+  },
+  {
+   "name": "Wedoflow",
+   "desc": "1,300+ website pages collected for reference.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://wedoflow.com/"
+  },
+  {
+   "name": "Motion in Design",
+   "desc": "Motion sections and animated interface patterns.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://motionin.design/"
+  },
+  {
+   "name": "UI Maxx",
+   "desc": "Curated gallery of maximal, high-craft interface design.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://uimaxx.ing/"
+  },
+  {
+   "name": "Hyperiux Vault",
+   "desc": "Curated vault of UI and UX references.",
+   "tab": "Inspiration",
+   "section": "Design Galleries",
+   "url": "https://vault.hyperiux.com/"
+  },
+  {
+   "name": "Figma",
+   "desc": "Collaborative interface design and prototyping platform.",
+   "tab": "Inspiration",
+   "section": "Interface Design",
+   "url": "https://figma.com/"
+  },
+  {
+   "name": "Framer",
+   "desc": "Visual canvas designing and publishing websites.",
+   "tab": "Inspiration",
+   "section": "Interface Design",
+   "url": "https://framer.com/"
+  },
+  {
+   "name": "make.design",
+   "desc": "AI generator turning prompts into polished designs.",
+   "tab": "Inspiration",
+   "section": "Interface Design",
+   "url": "https://make.design/"
+  },
+  {
+   "name": "Penpot",
+   "desc": "Open-source web design platform supporting SVG.",
+   "tab": "Inspiration",
+   "section": "Interface Design",
+   "url": "https://penpot.app/"
+  },
+  {
+   "name": "Spline",
+   "desc": "Browser-based 3D design software with physics.",
+   "tab": "Inspiration",
+   "section": "Interface Design",
+   "url": "https://spline.design/"
+  },
+  {
+   "name": "Interface Craft",
+   "desc": "Articles exploring modern digital interface craftsmanship.",
+   "tab": "Inspiration",
+   "section": "Interface Design",
+   "url": "https://www.interfacecraft.dev/"
+  },
+  {
+   "name": "UI Labs",
+   "desc": "Laboratory deconstructing animated UI components.",
+   "tab": "Inspiration",
+   "section": "Interface Design",
+   "url": "https://www.uilabs.dev/"
+  },
+  {
+   "name": "UIWTF",
+   "desc": "Showcase of experimental web interface patterns.",
+   "tab": "Inspiration",
+   "section": "Interface Design",
+   "url": "https://uiw.tf/"
+  },
+  {
+   "name": "Lab01",
+   "desc": "Refined UI experiments from a studio.",
+   "tab": "Inspiration",
+   "section": "Interface Design",
+   "url": "https://lab01.dev/"
+  },
+  {
+   "name": "design.dev",
+   "desc": "AI-assisted design token and system editor.",
+   "tab": "Inspiration",
+   "section": "Interface Design",
+   "url": "https://design.dev/"
+  },
+  {
+   "name": "UI Playbook",
+   "desc": "Guide to common UI component states.",
+   "tab": "Inspiration",
+   "section": "Interface Design",
+   "url": "https://uiplaybook.dev/"
+  },
+  {
+   "name": "Figma Weave",
+   "desc": "Node-based canvas combining AI models and editing tools.",
+   "tab": "Inspiration",
+   "section": "Interface Design",
+   "url": "https://weave.figma.com/"
+  },
+  {
+   "name": "Unicorn Studio",
+   "desc": "No-code WebGL effects and interactive scenes for the web.",
+   "tab": "Inspiration",
+   "section": "Interface Design",
+   "url": "https://www.unicorn.studio/"
+  },
+  {
+   "name": "Refactoring UI",
+   "desc": "Practical design guide for building interfaces.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://refactoringui.com/"
+  },
+  {
+   "name": "Practical Typography",
+   "desc": "Essential book covering typographic rules and layout.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://practicaltypography.com/"
+  },
+  {
+   "name": "web.dev",
+   "desc": "Guidance on web performance and modern standards.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://web.dev/"
+  },
+  {
+   "name": "Inclusive Components",
+   "desc": "Pattern library teaching accessible component design.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://inclusive-components.design/"
+  },
+  {
+   "name": "Josh Comeau",
+   "desc": "Interactive tutorials breaking down CSS mechanics.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://joshwcomeau.com/"
+  },
+  {
+   "name": "Design Books",
+   "desc": "Directory of essential design literature by discipline.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://design-books.com/"
+  },
+  {
+   "name": "Learn Kernels",
+   "desc": "Interactive guide exploring GPU kernel programming.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://learn-kernels.com/"
+  },
+  {
+   "name": "Design System Checklist",
+   "desc": "Comprehensive checklist for production design systems.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://designsystemchecklist.com/"
+  },
+  {
+   "name": "Learn UI",
+   "desc": "Video course teaching practical user interface design.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://learn-ui.com/"
+  },
+  {
+   "name": "Design Spells",
+   "desc": "Dissecting subtle design details in software.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://designspells.com/"
+  },
+  {
+   "name": "Good UI",
+   "desc": "Evidence-based UI design patterns and data.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://goodui.org/"
+  },
+  {
+   "name": "Abduzeedo",
+   "desc": "Daily design blog sharing visual inspiration.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://abduzeedo.com/"
+  },
+  {
+   "name": "UX Collective",
+   "desc": "Curated publication sharing critical UX essays.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://uxdesign.cc/"
+  },
+  {
+   "name": "Smashing Magazine",
+   "desc": "Reliable resource for web designers and developers.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://www.smashingmagazine.com/"
+  },
+  {
+   "name": "Codrops",
+   "desc": "Blog publishing creative frontend experiments and tutorials.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://tympanus.net/codrops/"
+  },
+  {
+   "name": "Muzli",
+   "desc": "Daily digest curating latest design trends.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://muz.li/"
+  },
+  {
+   "name": "Boxes and Arrows",
+   "desc": "Journal dedicated to information architecture craft.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://boxesandarrows.com/"
+  },
+  {
+   "name": "Designer News",
+   "desc": "Community-driven news feed highlighting design stories.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://www.designernews.co/"
+  },
+  {
+   "name": "Web Designer Depot",
+   "desc": "Design publication covering web standards and tools.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://www.webdesignerdepot.com/"
+  },
+  {
+   "name": "Designmodo",
+   "desc": "Articles and tools covering web design.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://designmodo.com/"
+  },
+  {
+   "name": "99designs Discover",
+   "desc": "Design blog exploring creative branding insights.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://99designs.com/discover"
+  },
+  {
+   "name": "Interfaces",
+   "desc": "Monthly digital publication exploring digital interfaces.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://interfaces.dev/"
+  },
+  {
+   "name": "Making Software",
+   "desc": "Essays examining how tools shape design.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://www.makingsoftware.com/"
+  },
+  {
+   "name": "Visual Rambling",
+   "desc": "Personal visual essays exploring interface design.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://visualrambling.space/"
+  },
+  {
+   "name": "Degreeless Design",
+   "desc": "Curated roadmap for mastering product design.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://www.degreeless.design/"
+  },
+  {
+   "name": "SVG Guide",
+   "desc": "Guide to mastering SVG markup and animations.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://www.svg.guide/"
+  },
+  {
+   "name": "Animations.dev",
+   "desc": "Course on creating web animations that feel right.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://www.animations.dev/"
+  },
+  {
+   "name": "UI Skills",
+   "desc": "Course teaching techniques for designing with AI.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://ui-skills.com/"
+  },
+  {
+   "name": "AI for UI",
+   "desc": "Course teaching AI workflows for interfaces.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://aiforui.dev/"
+  },
+  {
+   "name": "UI Land",
+   "desc": "Interviews with leading design engineers on craft.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://ui.land/"
+  },
+  {
+   "name": "Laws of UX",
+   "desc": "Psychological principles that influence interface usability.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://lawsofux.com/"
+  },
+  {
+   "name": "User Interface Wiki",
+   "desc": "Knowledge base documenting interface guidelines and rules.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://userinterface.wiki/"
+  },
+  {
+   "name": "The Shape of AI",
+   "desc": "Pattern library highlighting AI interface design.",
+   "tab": "Inspiration",
+   "section": "Reading",
+   "url": "https://www.shapeof.ai/"
+  },
+  {
+   "name": "ForgeUI",
+   "desc": "Animated React and Tailwind components and templates.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://forgeui.in/"
+  },
+  {
+   "name": "RewampUI",
+   "desc": "Component showcase dashboard of ready-made UI.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.rewampui.com/"
+  },
+  {
+   "name": "shadcn/ui",
+   "desc": "Components you copy directly into codebases.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://ui.shadcn.com/"
+  },
+  {
+   "name": "Base UI",
+   "desc": "Unstyled component primitives from Radix and MUI.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://base-ui.com/"
+  },
+  {
+   "name": "Radix",
+   "desc": "Accessible unstyled UI primitives for React.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.radix-ui.com/"
+  },
+  {
+   "name": "21st.dev",
+   "desc": "Community shadcn registry with interactive previews.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://21st.dev/"
+  },
+  {
+   "name": "Motion Primitives",
+   "desc": "Animated React components powered by Motion.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://motion-primitives.com/"
+  },
+  {
+   "name": "React Bits",
+   "desc": "Animated and creative components for React.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://reactbits.dev/"
+  },
+  {
+   "name": "Component Gallery",
+   "desc": "Repository comparing design system components.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://component.gallery/"
+  },
+  {
+   "name": "NumberFlow",
+   "desc": "Smooth number transitions across modern frameworks.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://number-flow.barvian.me/"
+  },
+  {
+   "name": "Fancy Components",
+   "desc": "Playful React components with physics effects.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.fancycomponents.dev/"
+  },
+  {
+   "name": "Opensource UI",
+   "desc": "Copy-paste React UI and device mockups.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://opensourceui.in/"
+  },
+  {
+   "name": "Spectrum UI",
+   "desc": "Polished components designed for SaaS websites.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://ui.spectrumhq.in/"
+  },
+  {
+   "name": "Amicro",
+   "desc": "Lightweight drop-in React micro-animation primitives.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://amicro.vercel.app/"
+  },
+  {
+   "name": "Painterly",
+   "desc": "Artistic canvas loader components for React.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://painterly.design-tools.workers.dev/"
+  },
+  {
+   "name": "Bencho",
+   "desc": "Interactive UI blocks with adjustable physics.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://bencho.dev/"
+  },
+  {
+   "name": "shadcnblocks",
+   "desc": "Thousands of clean shadcn website blocks.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.shadcnblocks.com/"
+  },
+  {
+   "name": "blocks.so",
+   "desc": "Open-source website blocks installable via CLI.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://blocks.so/"
+  },
+  {
+   "name": "8bitcn",
+   "desc": "Retro 8-bit components for shadcn projects.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://8bitcn.com/"
+  },
+  {
+   "name": "Evil Charts",
+   "desc": "Animated SVG charts designed for shadcn/ui.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://evilcharts.com/"
+  },
+  {
+   "name": "coss ui",
+   "desc": "Copy-paste components built on Base UI.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://coss.com/ui"
+  },
+  {
+   "name": "Rare UI",
+   "desc": "Unique animated UI components for React.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://rareui.com/"
+  },
+  {
+   "name": "beUI",
+   "desc": "Animated React components with Tailwind CSS.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://beui.dev/"
+  },
+  {
+   "name": "Butter Nav",
+   "desc": "Mega-menu featuring fluid layout morphing transitions.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://butter-nav.vercel.app/"
+  },
+  {
+   "name": "Cult UI",
+   "desc": "Animated React components with Framer Motion.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.cult-ui.com/"
+  },
+  {
+   "name": "daisyUI",
+   "desc": "Component class library for Tailwind CSS.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://daisyui.com/"
+  },
+  {
+   "name": "HeroUI",
+   "desc": "Modern React UI library, formerly NextUI.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.heroui.com/"
+  },
+  {
+   "name": "Kibo UI",
+   "desc": "Component registry tailored for AI interfaces.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.kibo-ui.com/"
+  },
+  {
+   "name": "Magic UI",
+   "desc": "Animated components crafted for landing pages.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://magicui.design/"
+  },
+  {
+   "name": "Aceternity UI",
+   "desc": "Trendy animated components and hero sections.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://ui.aceternity.com/"
+  },
+  {
+   "name": "Animate UI",
+   "desc": "Accessible shadcn components animated with Motion.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://animate-ui.com/"
+  },
+  {
+   "name": "FlyonUI",
+   "desc": "Semantic Tailwind CSS components ready for v4.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://flyonui.com/"
+  },
+  {
+   "name": "TailGrids",
+   "desc": "Responsive UI blocks designed for Tailwind.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://tailgrids.com/"
+  },
+  {
+   "name": "Flowbite",
+   "desc": "Extensive component library for Tailwind CSS.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://flowbite.com/"
+  },
+  {
+   "name": "HyperUI",
+   "desc": "Free open-source Tailwind CSS UI components.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.hyperui.dev/"
+  },
+  {
+   "name": "Preline UI",
+   "desc": "Tailwind CSS components for complex dashboards.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://preline.co/"
+  },
+  {
+   "name": "Float UI",
+   "desc": "Tailwind components crafted for marketing websites.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://floatui.com/"
+  },
+  {
+   "name": "Meraki UI",
+   "desc": "Tailwind components with right-to-left language support.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://merakiui.com/"
+  },
+  {
+   "name": "Tremor",
+   "desc": "Modular React library for building dashboards.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://tremor.so/"
+  },
+  {
+   "name": "Headless UI",
+   "desc": "Unstyled accessible components from Tailwind Labs.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://headlessui.com/"
+  },
+  {
+   "name": "Base CN",
+   "desc": "Base UI primitives adapted for shadcn.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://basecn.dev/"
+  },
+  {
+   "name": "Easy UI",
+   "desc": "Copy-paste component library for rapid building.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://easyui.pro/"
+  },
+  {
+   "name": "Eldora UI",
+   "desc": "Animated components tailored for web landings.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://eldoraui.site/"
+  },
+  {
+   "name": "Velora UI",
+   "desc": "Free Tailwind CSS components and sections.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://velora.colorlib.com/"
+  },
+  {
+   "name": "Watermelon UI",
+   "desc": "React component library for shadcn ecosystem.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://watermelon.sh/"
+  },
+  {
+   "name": "Beautiful UI",
+   "desc": "Polished copy-paste components for web applications.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://beautifului.dev/"
+  },
+  {
+   "name": "Hexter UI",
+   "desc": "Clean component collection for shadcn projects.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://hexter-ui.com/"
+  },
+  {
+   "name": "Lightswind",
+   "desc": "Tailwind components featuring lighting and glows.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://lightswind.com/"
+  },
+  {
+   "name": "Reverse UI",
+   "desc": "Tailwind and React component library.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://reverseui.com/"
+  },
+  {
+   "name": "Smooth UI",
+   "desc": "Motion-heavy React components ready to copy.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://smoothui.dev/"
+  },
+  {
+   "name": "Tailark",
+   "desc": "Tailwind sections and components for marketing.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://tailark.com/"
+  },
+  {
+   "name": "UI Layouts",
+   "desc": "Full-page layouts and heroes for Tailwind.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://ui-layouts.com/"
+  },
+  {
+   "name": "Kokonut UI",
+   "desc": "Creative interactive components for shadcn format.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://kokonutui.com/"
+  },
+  {
+   "name": "Nex UI",
+   "desc": "Extensible component library for modern startups.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://nexui.dev/"
+  },
+  {
+   "name": "Ninja UI",
+   "desc": "Lightweight UI components for fast websites.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://ninna-ui.dev/"
+  },
+  {
+   "name": "Sera UI",
+   "desc": "React components designed for shadcn CLI.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://seraui.com/"
+  },
+  {
+   "name": "Re UI",
+   "desc": "Accessible UI components using Base UI.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://reui.io/"
+  },
+  {
+   "name": "Syntax UI",
+   "desc": "Animated copy-paste components for landing pages.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://syntaxui.com/"
+  },
+  {
+   "name": "shadcn-cssinjs",
+   "desc": "shadcn components adapted for CSS-in-JS.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.shadcn-cssinjs.com/"
+  },
+  {
+   "name": "Transitions",
+   "desc": "Curated CSS transition recipes and easings.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://transitions.dev/"
+  },
+  {
+   "name": "23rd",
+   "desc": "shadcn components for React and Svelte.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://23rd.dev/"
+  },
+  {
+   "name": "Oneko",
+   "desc": "Pixel cat companion that chases cursor.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://oneko.dhrv.pw/"
+  },
+  {
+   "name": "Rolling Number",
+   "desc": "Smooth digit-rolling number counter for React.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://rolling.kitlangton.dev/"
+  },
+  {
+   "name": "Annnimate",
+   "desc": "GSAP motion components ready for production.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://annnimate.com/"
+  },
+  {
+   "name": "GetLayers",
+   "desc": "AI prompts for cinematic page sections.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://getlayers.ai/"
+  },
+  {
+   "name": "Scritto",
+   "desc": "Rolling character text transition component library.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://scrit.to/"
+  },
+  {
+   "name": "ogimagecn",
+   "desc": "Open Graph image components using Satori.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.ogimagecn.com/"
+  },
+  {
+   "name": "Dither Kit",
+   "desc": "Dithered chart components with retro aesthetic.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.tripwire.sh/dither-kit"
+  },
+  {
+   "name": "shieldcn",
+   "desc": "README badges styled with shadcn aesthetics.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://shieldcn.dev/"
+  },
+  {
+   "name": "unlumen UI",
+   "desc": "Minimalist React component library with CLI.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://ui.unlumen.com/"
+  },
+  {
+   "name": "Bearnie",
+   "desc": "Astro and Tailwind component collection.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://bearnie.dev/"
+  },
+  {
+   "name": "Fluid Functionalism",
+   "desc": "Components designed with purposeful physical animation.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.fluidfunctionalism.com/"
+  },
+  {
+   "name": "termcn",
+   "desc": "Terminal UI components for React, built on Ink and OpenTUI.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://termcn.dev/"
+  },
+  {
+   "name": "framecn",
+   "desc": "Video rendering components for React, built on Editframe.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://framecn.dev/"
+  },
+  {
+   "name": "emailcn",
+   "desc": "Responsive email components for React Email, MJML, and JSX Email.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://emailcn.run/"
+  },
+  {
+   "name": "startercn",
+   "desc": "shadcn/ui registry template with docs, landing page, and agent support.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://startercn.vercel.app/"
+  },
+  {
+   "name": "pdfcn",
+   "desc": "PDF components for React, built on Takumi and Forme.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://pdfcn.dev/"
+  },
+  {
+   "name": "editorcn",
+   "desc": "Rich text editor components for React, built on Tiptap.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://editorcn.vercel.app/"
+  },
+  {
+   "name": "Shadcn Labs",
+   "desc": "Open-source shadcn/ui component registries and tools ecosystem.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.shadcn-labs.com/"
+  },
+  {
+   "name": "Frameblox",
+   "desc": "Modular Framer sections and templates.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://frameblox.com/"
+  },
+  {
+   "name": "Nexvyn UI",
+   "desc": "Polished drop-in components for digital interfaces.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://ui.nexvyn.dev/"
+  },
+  {
+   "name": "Gradient Spin",
+   "desc": "Spinning gradient loading indicator for React.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://gradient-spin.vercel.app/"
+  },
+  {
+   "name": "Libraries.dev",
+   "desc": "UI effects and components for agents.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://libraries.dev/"
+  },
+  {
+   "name": "Sona UI",
+   "desc": "Animated React components you fully own.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.sonaui.com/"
+  },
+  {
+   "name": "Colorion Text Effects",
+   "desc": "Animated text effects ready to copy.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://text-effects.colorion.co/"
+  },
+  {
+   "name": "Dot Matrix",
+   "desc": "Over fifty dot-matrix loaders for shadcn.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://dotmatrix.zzzzshawn.cloud/"
+  },
+  {
+   "name": "SRCL",
+   "desc": "Retro DOS-style terminal component kit.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.sacred.computer/"
+  },
+  {
+   "name": "Prompt Kit",
+   "desc": "Chat and AI interface component primitives.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.prompt-kit.com/"
+  },
+  {
+   "name": "Shoogle",
+   "desc": "Search engine spanning shadcn component registries.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://shoogle.dev/"
+  },
+  {
+   "name": "interior.dev",
+   "desc": "Micro-interactions finely tuned for click responsiveness.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.interior.dev/"
+  },
+  {
+   "name": "soundcn",
+   "desc": "Collection of copy-paste UI sound effects.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://soundcn.xyz/"
+  },
+  {
+   "name": "cuelume",
+   "desc": "Micro interface sounds generated with Web Audio.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://cuelume.dev/"
+  },
+  {
+   "name": "Canvas UI",
+   "desc": "GPU-accelerated liquid physics and canvas shaders.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://canvasui.dev/"
+  },
+  {
+   "name": "Odyssey UI",
+   "desc": "Animated React components built on shadcn.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.odysseyui.com/"
+  },
+  {
+   "name": "Spell UI",
+   "desc": "High-craft interactive components for modern apps.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://spell.sh/"
+  },
+  {
+   "name": "Skiper UI",
+   "desc": "Animated UI primitives for Tailwind CSS.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://skiper-ui.com/"
+  },
+  {
+   "name": "devl",
+   "desc": "Minimalist experimental UI components for web.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.devl.dev/"
+  },
+  {
+   "name": "Uiuno",
+   "desc": "AI workspace for organizing shadcn components.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://uiuno.com/"
+  },
+  {
+   "name": "Vengeance UI",
+   "desc": "Animated React components with scroll interactions.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.vengeanceui.com/"
+  },
+  {
+   "name": "sensory-ui",
+   "desc": "Sound design system for shadcn/ui components.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.sensory-ui.com/"
+  },
+  {
+   "name": "Amacro",
+   "desc": "Drop-in page reveal animations for React.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://amacro.vercel.app/"
+  },
+  {
+   "name": "Evil Buttons",
+   "desc": "Interactive and tactile button components.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.evilbuttons.com/"
+  },
+  {
+   "name": "Componentry",
+   "desc": "Customizable React UI primitives and components.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://componentry.dev/"
+  },
+  {
+   "name": "Great UI",
+   "desc": "Copy-paste React and Tailwind CSS components.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.great-ui.com/"
+  },
+  {
+   "name": "Ruru UI",
+   "desc": "Accessible customizable UI components for React.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://ui.ruru.build/"
+  },
+  {
+   "name": "Shadcn Studio",
+   "desc": "shadcn/ui components, blocks, and templates.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://shadcnstudio.com/"
+  },
+  {
+   "name": "Animated shadcn/ui",
+   "desc": "Motion-powered variants of shadcn/ui components.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://shadcn-animated.vercel.app/"
+  },
+  {
+   "name": "Pin UI",
+   "desc": "Distinctive copy-paste React and Tailwind components.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.pinui.xyz/"
+  },
+  {
+   "name": "loading.dev",
+   "desc": "Lightweight library of loading indicators for React.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://loading.dev/"
+  },
+  {
+   "name": "ObsidianUI",
+   "desc": "Dark, animated React components for modern interfaces.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.obsidianui.dev/"
+  },
+  {
+   "name": "JOYCO Hub",
+   "desc": "Public registry of JOYCO's internal components and tools.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://hub.joyco.studio/"
+  },
+  {
+   "name": "BYQ Supply",
+   "desc": "Copy-paste sections and design systems for Webflow, Figma, and Framer.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://www.byq.supply/"
+  },
+  {
+   "name": "PaceUI",
+   "desc": "Animated components and blocks for React and Tailwind.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://paceui.com/"
+  },
+  {
+   "name": "UI Arc",
+   "desc": "Open-source collection of copy-paste UI components.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://uiarc.dev/"
+  },
+  {
+   "name": "AlignUI",
+   "desc": "Figma and React design system for product teams.",
+   "tab": "Components",
+   "section": "Component Libraries",
+   "url": "https://alignui.com/"
+  },
+  {
+   "name": "Motion",
+   "desc": "Production-ready animation library for React applications.",
+   "tab": "Components",
+   "section": "Motion",
+   "url": "https://motion.dev/"
+  },
+  {
+   "name": "GSAP",
+   "desc": "Industry-standard JavaScript timeline animation engine.",
+   "tab": "Components",
+   "section": "Motion",
+   "url": "https://gsap.com/"
+  },
+  {
+   "name": "Rive",
+   "desc": "Interactive state-machine vector animation tool.",
+   "tab": "Components",
+   "section": "Motion",
+   "url": "https://rive.app/"
+  },
+  {
+   "name": "Lottie",
+   "desc": "Lightweight JSON-based vector animation format.",
+   "tab": "Components",
+   "section": "Motion",
+   "url": "https://lottiefiles.com/"
+  },
+  {
+   "name": "Easing Wizard",
+   "desc": "Visual generator for custom CSS springs.",
+   "tab": "Components",
+   "section": "Motion",
+   "url": "https://easingwizard.com/"
+  },
+  {
+   "name": "Morphrig",
+   "desc": "Interactive manual on how icon morphing works.",
+   "tab": "Components",
+   "section": "Motion",
+   "url": "https://morphrig.dev/"
+  },
+  {
+   "name": "Theatre.js",
+   "desc": "Visual motion design sequencer for DOM.",
+   "tab": "Components",
+   "section": "Motion",
+   "url": "https://www.theatrejs.com/"
+  },
+  {
+   "name": "morphicons",
+   "desc": "Spring-physics icon morphing animation library.",
+   "tab": "Components",
+   "section": "Motion",
+   "url": "https://www.morphicons.com/"
+  },
+  {
+   "name": "glimm",
+   "desc": "Shader-driven page transitions for Next.js.",
+   "tab": "Components",
+   "section": "Motion",
+   "url": "https://glimm.dev/"
+  },
+  {
+   "name": "Devouring Details",
+   "desc": "Interactive book teaching micro-interaction design.",
+   "tab": "Components",
+   "section": "Motion",
+   "url": "https://devouringdetails.com/"
+  },
+  {
+   "name": "textmotion",
+   "desc": "Zero-dependency text roll animation primitive.",
+   "tab": "Components",
+   "section": "Motion",
+   "url": "https://textmotion.dev/"
+  },
+  {
+   "name": "Claude Code",
+   "desc": "Agentic coding tool inside your terminal.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://claude.com/claude-code"
+  },
+  {
+   "name": "Cursor",
+   "desc": "AI-first code editor for rapid development.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://cursor.com/"
+  },
+  {
+   "name": "Zed",
+   "desc": "High-performance code editor built for low latency.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://zed.dev/"
+  },
+  {
+   "name": "v0",
+   "desc": "Generative AI translating prompts into shadcn code.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://v0.app/"
+  },
+  {
+   "name": "Bolt.new",
+   "desc": "In-browser development sandbox for full-stack applications.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://bolt.new/"
+  },
+  {
+   "name": "Vite",
+   "desc": "Blazing fast frontend build and dev tool.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://vite.dev/"
+  },
+  {
+   "name": "Biome",
+   "desc": "Fast Rust-based formatter and code linter.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://biomejs.dev/"
+  },
+  {
+   "name": "Playwright",
+   "desc": "Reliable browser automation and end-to-end testing.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://playwright.dev/"
+  },
+  {
+   "name": "BuilderTools",
+   "desc": "Focused developer tools for shipping software.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://www.buildertools.sh/"
+  },
+  {
+   "name": "nuqs",
+   "desc": "Type-safe URL search params for React.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://nuqs.47ng.com/"
+  },
+  {
+   "name": "Better T Stack",
+   "desc": "CLI scaffolding modern full-stack TypeScript setups.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://www.better-t-stack.dev/"
+  },
+  {
+   "name": "AI Stack",
+   "desc": "Directory comparing modern AI tech stacks.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://github.com/alp82/aistack"
+  },
+  {
+   "name": "Alumnium",
+   "desc": "Natural-language end-to-end testing via MCP.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://alumnium.ai/"
+  },
+  {
+   "name": "Vercel Doctor",
+   "desc": "Diagnostic tool identifying Next.js performance bottlenecks.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://vercel-doctor.com/"
+  },
+  {
+   "name": "OSS Perks",
+   "desc": "Free cloud credits for open-source maintainers.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://ossperks.com/"
+  },
+  {
+   "name": "Vinext",
+   "desc": "Vite plugin running Next.js on Cloudflare.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://vinext.dev/"
+  },
+  {
+   "name": "evlog",
+   "desc": "Structured logging framework for web applications.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://www.evlog.dev/"
+  },
+  {
+   "name": "@web-kits/audio",
+   "desc": "Declarative sound library for web apps.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://audio.raphaelsalaja.com/"
+  },
+  {
+   "name": "Nue",
+   "desc": "Lightweight web framework alternative to React.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://nuejs.org/"
+  },
+  {
+   "name": "Umami",
+   "desc": "Privacy-focused web analytics without cookie banners.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://umami.is/"
+  },
+  {
+   "name": "Torph",
+   "desc": "Dependency-free text morphing animation library.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://torph.lochie.me/"
+  },
+  {
+   "name": "x.ai/bot",
+   "desc": "Documentation detailing xAI web crawler specifications.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://x.ai/bot"
+  },
+  {
+   "name": "Tracwell",
+   "desc": "Focused analytics tracking visitors and conversions.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://tracwell.app/"
+  },
+  {
+   "name": "DialKit",
+   "desc": "Floating interface toolbar for parameter tuning.",
+   "tab": "Build",
+   "section": "Development",
+   "url": "https://www.dialkit.dev/"
+  },
+  {
+   "name": "Dray",
+   "desc": "Unified desktop workspace managing coding agents.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://www.drayhq.com/"
+  },
+  {
+   "name": "Refero",
+   "desc": "Structured DESIGN.MD specifications for AI agents.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://styles.refero.design/"
+  },
+  {
+   "name": "designmd.me",
+   "desc": "Generator creating machine-readable design specifications.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://designmd.me/"
+  },
+  {
+   "name": "Open Design",
+   "desc": "Standardized design systems formatted for agents.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://open-design.ai/"
+  },
+  {
+   "name": "designmd.supply",
+   "desc": "DESIGN.MD templates to guide AI assistants.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://designmd.supply/"
+  },
+  {
+   "name": "getdesign.md",
+   "desc": "Interactive generator producing AI design rules.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://getdesign.md/"
+  },
+  {
+   "name": "Hyperbrowser Design.md",
+   "desc": "DESIGN.MD generator extracting rules from websites.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://design-md.hyperbrowser.ai/"
+  },
+  {
+   "name": "Aura",
+   "desc": "Design system generator structuring AI guidelines.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://aura.build/"
+  },
+  {
+   "name": "Neuform",
+   "desc": "AI-assisted interface design producing clean code.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://neuform.ai/"
+  },
+  {
+   "name": "typeui.sh",
+   "desc": "Command-line tool scaffolding typed UI components.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://typeui.sh/"
+  },
+  {
+   "name": "Webclaw",
+   "desc": "Converts any webpage into structured markdown.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://webclaw.io/"
+  },
+  {
+   "name": "Ghostex",
+   "desc": "Orchestrates multiple background coding agent sessions.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://ghostex.dev/"
+  },
+  {
+   "name": "is-agentic.com",
+   "desc": "Scores how effectively websites support crawlers.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://is-agentic.com/"
+  },
+  {
+   "name": "Herdr",
+   "desc": "Distributed runner managing coding agent jobs.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://herdr.dev/"
+  },
+  {
+   "name": "Soubi",
+   "desc": "Compiler transforming agent skill definitions.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://soubi.vercel.app/"
+  },
+  {
+   "name": "agentcn",
+   "desc": "Customizable and production-ready AI agent recipes for React.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://agentcn.run/"
+  },
+  {
+   "name": "skills",
+   "desc": "Agent skills for shadcn registries and developer workflows.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://www.skills.sh/shadcn-labs/skills"
+  },
+  {
+   "name": "mcpcn",
+   "desc": "ChatGPT, Claude, and MCP app UI components for React.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://mcpcn.dev/"
+  },
+  {
+   "name": "integrations.sh",
+   "desc": "Repository of API integration specifications for agents.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://integrations.sh/"
+  },
+  {
+   "name": "fx",
+   "desc": "High-performance coding agent CLI in Zig.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://fx.sh/"
+  },
+  {
+   "name": "HyperFrames",
+   "desc": "Headless HTML-to-MP4 video rendering engine.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://www.hyperframes.dev/"
+  },
+  {
+   "name": "Foglamp",
+   "desc": "Observability tool monitoring latency and costs.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://www.foglamp.dev/"
+  },
+  {
+   "name": "Distill",
+   "desc": "Intelligent agent organizing scattered research notes.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://distill.id/"
+  },
+  {
+   "name": "Agentation",
+   "desc": "Converts on-screen UI annotations into context.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://www.agentation.com/"
+  },
+  {
+   "name": "OpenCode",
+   "desc": "Open-source terminal AI coding agent.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://opencode.ai/"
+  },
+  {
+   "name": "Impeccable",
+   "desc": "Design intelligence skill for AI agents.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://impeccable.style/"
+  },
+  {
+   "name": "SkillSync",
+   "desc": "Synchronizes agent context across code editors.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://skillsync.com/"
+  },
+  {
+   "name": "bb",
+   "desc": "Open-source development environment for coding agents.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://getbb.app/"
+  },
+  {
+   "name": "Capacity",
+   "desc": "Natural language workspace generating full-stack apps.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://capacity.so/"
+  },
+  {
+   "name": "Planes",
+   "desc": "AI-native workspace for planning and shipping product work.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://useplanes.com/"
+  },
+  {
+   "name": "Blink",
+   "desc": "AI app builder turning prompts into full-stack products.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://blink.new/"
+  },
+  {
+   "name": "Lafys",
+   "desc": "Prompt-driven UI component generator for builders.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://lafys.com/"
+  },
+  {
+   "name": "Efecto",
+   "desc": "Agent-first visual web canvas with MCP.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://efecto.app/"
+  },
+  {
+   "name": "Arc labs",
+   "desc": "AI career suite simulating technical interviews.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://www.arclabs.space/"
+  },
+  {
+   "name": "Scira",
+   "desc": "Minimalist open-source AI search engine.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://scira.ai/"
+  },
+  {
+   "name": "Kombai",
+   "desc": "AI design engineer that codes UI from context.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://kombai.com/"
+  },
+  {
+   "name": "Causal",
+   "desc": "AI canvas workspace for notes and plans.",
+   "tab": "Build",
+   "section": "Agents & MCP",
+   "url": "https://causal.so/"
+  },
+  {
+   "name": "Vercel",
+   "desc": "Cloud platform for deploying Next.js applications.",
+   "tab": "Build",
+   "section": "Deploy",
+   "url": "https://vercel.com/"
+  },
+  {
+   "name": "Cloudflare",
+   "desc": "Global edge network running serverless Workers.",
+   "tab": "Build",
+   "section": "Deploy",
+   "url": "https://developers.cloudflare.com/workers/"
+  },
+  {
+   "name": "Netlify",
+   "desc": "Web platform providing continuous deployment pipelines.",
+   "tab": "Build",
+   "section": "Deploy",
+   "url": "https://netlify.com/"
+  },
+  {
+   "name": "Railway",
+   "desc": "Simplified infrastructure platform for deploying databases.",
+   "tab": "Build",
+   "section": "Deploy",
+   "url": "https://railway.app/"
+  },
+  {
+   "name": "Fly.io",
+   "desc": "Runs Docker containers close to users.",
+   "tab": "Build",
+   "section": "Deploy",
+   "url": "https://fly.io/"
+  },
+  {
+   "name": "Fontshare",
+   "desc": "High-quality professional fonts free for commercial use.",
+   "tab": "Visuals",
+   "section": "Type",
+   "url": "https://fontshare.com/"
+  },
+  {
+   "name": "Klim",
+   "desc": "Type foundry creating contemporary web typefaces.",
+   "tab": "Visuals",
+   "section": "Type",
+   "url": "https://klim.co.nz/"
+  },
+  {
+   "name": "Fontsource",
+   "desc": "Self-host open-source fonts via npm packages.",
+   "tab": "Visuals",
+   "section": "Type",
+   "url": "https://fontsource.org/"
+  },
+  {
+   "name": "Wakamai Fondue",
+   "desc": "Tool inspecting font files and features.",
+   "tab": "Visuals",
+   "section": "Type",
+   "url": "https://wakamaifondue.com/"
+  },
+  {
+   "name": "Utopia",
+   "desc": "Fluid typography calculator generating CSS clamp.",
+   "tab": "Visuals",
+   "section": "Type",
+   "url": "https://utopia.fyi/"
+  },
+  {
+   "name": "Velvetyne",
+   "desc": "Open-source foundry distributing experimental typefaces.",
+   "tab": "Visuals",
+   "section": "Type",
+   "url": "https://velvetyne.fr/"
+  },
+  {
+   "name": "Departure Mono",
+   "desc": "Pixel monospace typeface designed for terminals.",
+   "tab": "Visuals",
+   "section": "Type",
+   "url": "https://departuremono.com/"
+  },
+  {
+   "name": "OKLCH",
+   "desc": "Color picker using perceptually uniform space.",
+   "tab": "Visuals",
+   "section": "Color",
+   "url": "https://oklch.com/"
+  },
+  {
+   "name": "Color.review",
+   "desc": "Contrast checker helping design accessible palettes.",
+   "tab": "Visuals",
+   "section": "Color",
+   "url": "https://color.review/"
+  },
+  {
+   "name": "Huetone",
+   "desc": "Accessible palette generator balancing contrast ratios.",
+   "tab": "Visuals",
+   "section": "Color",
+   "url": "https://huetone.ardov.me/"
+  },
+  {
+   "name": "APCA",
+   "desc": "Modern contrast algorithm matching visual perception.",
+   "tab": "Visuals",
+   "section": "Color",
+   "url": "https://www.myndex.com/APCA/"
+  },
+  {
+   "name": "Ramps",
+   "desc": "Design token tool generating OKLCH ramps.",
+   "tab": "Visuals",
+   "section": "Color",
+   "url": "https://www.ramps.studio/"
+  },
+  {
+   "name": "Three.js",
+   "desc": "JavaScript 3D library rendering WebGL scenes.",
+   "tab": "Visuals",
+   "section": "3D",
+   "url": "https://threejs.org/"
+  },
+  {
+   "name": "React Three Fiber",
+   "desc": "Declarative React renderer for Three.js scenes.",
+   "tab": "Visuals",
+   "section": "3D",
+   "url": "https://r3f.docs.pmnd.rs/"
+  },
+  {
+   "name": "Drei",
+   "desc": "Helper components for React Three Fiber.",
+   "tab": "Visuals",
+   "section": "3D",
+   "url": "https://drei.docs.pmnd.rs/"
+  },
+  {
+   "name": "Blender",
+   "desc": "Open-source 3D modeling and animation suite.",
+   "tab": "Visuals",
+   "section": "3D",
+   "url": "https://blender.org/"
+  },
+  {
+   "name": "gltf.report",
+   "desc": "Web-based optimizer for 3D glTF files.",
+   "tab": "Visuals",
+   "section": "3D",
+   "url": "https://gltf.report/"
+  },
+  {
+   "name": "Poly Haven",
+   "desc": "Public asset library offering CC0 textures.",
+   "tab": "Visuals",
+   "section": "3D",
+   "url": "https://polyhaven.com/"
+  },
+  {
+   "name": "Book of Shaders",
+   "desc": "Interactive guide to mastering fragment shaders.",
+   "tab": "Visuals",
+   "section": "Shaders",
+   "url": "https://thebookofshaders.com/"
+  },
+  {
+   "name": "compute.toys",
+   "desc": "Sandbox for authoring WGSL compute shaders.",
+   "tab": "Visuals",
+   "section": "Shaders",
+   "url": "https://compute.toys/"
+  },
+  {
+   "name": "Shaderfrog",
+   "desc": "Visual node-based editor for composing shaders.",
+   "tab": "Visuals",
+   "section": "Shaders",
+   "url": "https://shaderfrog.com/"
+  },
+  {
+   "name": "shadercn",
+   "desc": "Shader components for React, built on vgpu and TypeGPU.",
+   "tab": "Visuals",
+   "section": "Shaders",
+   "url": "https://shadercn.run/"
+  },
+  {
+   "name": "Paper Shaders",
+   "desc": "Zero-dependency shaders ready to import.",
+   "tab": "Visuals",
+   "section": "Shaders",
+   "url": "https://shaders.paper.design/"
+  },
+  {
+   "name": "OpenShaders",
+   "desc": "Open-source shader collection for web projects.",
+   "tab": "Visuals",
+   "section": "Shaders",
+   "url": "https://openshaders.com/"
+  },
+  {
+   "name": "Orbkit",
+   "desc": "WebGL shader renderer for orb animations.",
+   "tab": "Visuals",
+   "section": "Shaders",
+   "url": "https://orbkit.zzzzshawn.cloud/"
+  },
+  {
+   "name": "Lucide",
+   "desc": "Community-maintained Feather Icons fork with thousands of glyphs.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://lucide.dev/"
+  },
+  {
+   "name": "Phosphor",
+   "desc": "Icon family providing six consistent weights.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://phosphoricons.com/"
+  },
+  {
+   "name": "Iconify",
+   "desc": "Unified framework providing instant icon access.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://iconify.design/"
+  },
+  {
+   "name": "Rune Icons",
+   "desc": "Minimalist icon set offering five styles.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://www.runeicons.com/"
+  },
+  {
+   "name": "Icon Museum",
+   "desc": "Archive celebrating mobile app icon craftsmanship.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://icon.museum/"
+  },
+  {
+   "name": "Tabler Icons",
+   "desc": "Library of thousands of outline icons.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://tabler.io/icons"
+  },
+  {
+   "name": "Heroicons",
+   "desc": "Handcrafted SVG icons from Tailwind creators.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://heroicons.com/"
+  },
+  {
+   "name": "Material Symbols",
+   "desc": "Google variable icon font spanning three styles.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://fonts.google.com/icons"
+  },
+  {
+   "name": "Bootstrap Icons",
+   "desc": "Official icon library designed for Bootstrap.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://icons.getbootstrap.com/"
+  },
+  {
+   "name": "Remix Icon",
+   "desc": "Neutral icon library in outline and fill.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://remixicon.com/"
+  },
+  {
+   "name": "Iconoir",
+   "desc": "Open-source SVG icons with consistent strokes.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://iconoir.com/"
+  },
+  {
+   "name": "Ionicons",
+   "desc": "Premium icon pack for web and mobile.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://ionic.io/ionicons/"
+  },
+  {
+   "name": "Simple Icons",
+   "desc": "Over three thousand SVG brand logos.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://simpleicons.org/"
+  },
+  {
+   "name": "theSVG",
+   "desc": "Curated collection of clean brand SVGs.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://thesvg.org/"
+  },
+  {
+   "name": "Feather",
+   "desc": "Minimalist open-source icon set on 24px grid.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://feathericons.com/"
+  },
+  {
+   "name": "Carbon Icons",
+   "desc": "IBM official icon library for enterprise design.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://carbondesignsystem.com/"
+  },
+  {
+   "name": "Boxicons",
+   "desc": "Vector icons crafted in three styles.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://boxicons.com/"
+  },
+  {
+   "name": "MX Icons",
+   "desc": "Large collection of customizable React icons.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://mx-icons.vercel.app/"
+  },
+  {
+   "name": "Eva Icons",
+   "desc": "Pack of 400 icons in outline and fill.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://akveo.github.io/eva-icons/"
+  },
+  {
+   "name": "Devicon",
+   "desc": "Developer-focused icon set for programming tools.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://devicon.dev/"
+  },
+  {
+   "name": "css.gg",
+   "desc": "700 lightweight icons rendered using pure CSS.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://css.gg/"
+  },
+  {
+   "name": "HugeIcons",
+   "desc": "Comprehensive library of stroke and solid icons.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://hugeicons.com/"
+  },
+  {
+   "name": "Reicon",
+   "desc": "Tree-shakeable React icon library with dual weights.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://reicon.dev/"
+  },
+  {
+   "name": "Iconsax",
+   "desc": "Versatile icon set with six visual styles.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://app.iconsax.io/"
+  },
+  {
+   "name": "icons0",
+   "desc": "Search engine covering over 200k icons.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://icons0.dev/"
+  },
+  {
+   "name": "Heroicons Animated",
+   "desc": "Heroicons enhanced with reactive hover animations.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://heroicons-animated.com/"
+  },
+  {
+   "name": "Icons.download",
+   "desc": "Curated icon library in sixteen aesthetic styles.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://icons.download/"
+  },
+  {
+   "name": "Lucide Animated",
+   "desc": "Lucide icons enhanced with micro-animations.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://lucide-animated.com/"
+  },
+  {
+   "name": "Icon Foundry",
+   "desc": "Searchable collection of icons from many families.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://iconfoundry.store/"
+  },
+  {
+   "name": "Inkword",
+   "desc": "Turns a single word into a matching illustration.",
+   "tab": "Visuals",
+   "section": "Icons",
+   "url": "https://inkword.app/"
+  },
+  {
+   "name": "SVGOMG",
+   "desc": "Web GUI to optimize and clean SVG files.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://svgomg.net/"
+  },
+  {
+   "name": "RegExr",
+   "desc": "Interactive sandbox for testing regular expressions.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://regexr.com/"
+  },
+  {
+   "name": "Squoosh",
+   "desc": "Browser image compression with visual comparisons.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://squoosh.app/"
+  },
+  {
+   "name": "Fffuel",
+   "desc": "Generative SVG textures, gradients, and patterns.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://fffuel.co/"
+  },
+  {
+   "name": "ui.camera",
+   "desc": "3D mockups and scene staging for software.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://ui.camera/"
+  },
+  {
+   "name": "Ray.so",
+   "desc": "Turn code snippets into shareable screenshots.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://ray.so/"
+  },
+  {
+   "name": "Transform",
+   "desc": "Polyglot code converter for JSON and types.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://transform.tools/"
+  },
+  {
+   "name": "Playgrnd",
+   "desc": "Suite of browser-based offline creative tools.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://www.playgrnd.tools/"
+  },
+  {
+   "name": "Anim8",
+   "desc": "Convert MP4 recordings into animated SVG graphics.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://www.tryanim8.com/"
+  },
+  {
+   "name": "OGFolio",
+   "desc": "Inspect and preview Open Graph social cards.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://www.ogfolio.com/"
+  },
+  {
+   "name": "DotForge",
+   "desc": "Real-time dither effect generator for web.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://dotforge.vercel.app/"
+  },
+  {
+   "name": "ASCIInator",
+   "desc": "Browser utility converting images into ASCII art.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://asciinator.app/"
+  },
+  {
+   "name": "Vessa",
+   "desc": "Publish brand guidelines as live pages.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://vessa.design/"
+  },
+  {
+   "name": "Icoon",
+   "desc": "AI tool generating custom 3D icons.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://icoon.co/"
+  },
+  {
+   "name": "Design Minis",
+   "desc": "Suite of micro design tools and scales.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://www.designminis.com/"
+  },
+  {
+   "name": "ASCII (Kracked Devs)",
+   "desc": "Fast tool converting text into ASCII art.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://ascii.krackeddevs.com/"
+  },
+  {
+   "name": "Dither Lab",
+   "desc": "Applies vintage dithering filters to photographs.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://literate-enigma-snowy.vercel.app/"
+  },
+  {
+   "name": "Hallmark",
+   "desc": "Landing page builder producing handcrafted designs.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://www.usehallmark.com/"
+  },
+  {
+   "name": "Tooooools",
+   "desc": "In-browser utilities to dither and pixelate images.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://www.tooooools.app/"
+  },
+  {
+   "name": "Screan",
+   "desc": "Create promotional App Store screenshot mockups.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://screan.app/"
+  },
+  {
+   "name": "PostSpark",
+   "desc": "Format screenshots with clean social backgrounds.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://postspark.app/"
+  },
+  {
+   "name": "Drawably",
+   "desc": "Sketching tool generating hand-drawn UI shapes.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://www.drawably.dev/"
+  },
+  {
+   "name": "Mesurer",
+   "desc": "On-screen tool checking website pixel spacing.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://mesurer.dev/"
+  },
+  {
+   "name": "Render Labs",
+   "desc": "Image rendering tool from evlog team.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://render-labs.evlog.cloud/"
+  },
+  {
+   "name": "Butterfly",
+   "desc": "Minimalist landing page builder for validation.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://www.butterfly.so/"
+  },
+  {
+   "name": "Corne",
+   "desc": "Documentation for the Corne split keyboard.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://corne.rs/"
+  },
+  {
+   "name": "Shiori",
+   "desc": "Bookmark manager with CLI and Raycast support.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://www.shiori.sh/"
+  },
+  {
+   "name": "Open Source Together",
+   "desc": "Platform matching developers with open-source projects.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://opensource-together.com/"
+  },
+  {
+   "name": "ASCII Studio",
+   "desc": "Transforms images and videos into ASCII art.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://www.asciistudio.space/"
+  },
+  {
+   "name": "Tabbied",
+   "desc": "Generative geometric pattern creator for SVG.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://tabbied.com/"
+  },
+  {
+   "name": "Rynix Studio",
+   "desc": "Playground for real-time video visual effects.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://studio.rynix.in/edit"
+  },
+  {
+   "name": "Mascofast",
+   "desc": "AI tool generating animated transparent 3D mascots.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://mascofast.com/"
+  },
+  {
+   "name": "Screenshot Studio",
+   "desc": "Frames screenshots inside realistic 3D mockups.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://www.screenshot-studio.com/"
+  },
+  {
+   "name": "Replay",
+   "desc": "Session replay and visitor recording for websites.",
+   "tab": "Utilities",
+   "section": "Utilities",
+   "url": "https://letsreplay.co/"
+  },
+  {
+   "name": "Raycast",
+   "desc": "Extendable desktop launcher replacing Spotlight.",
+   "tab": "Utilities",
+   "section": "Desktop",
+   "url": "https://raycast.com/"
+  },
+  {
+   "name": "Ghostty",
+   "desc": "Fast GPU-accelerated terminal emulator for developers.",
+   "tab": "Utilities",
+   "section": "Desktop",
+   "url": "https://ghostty.org/"
+  },
+  {
+   "name": "Warp",
+   "desc": "Rust-based terminal with block outputs and AI.",
+   "tab": "Utilities",
+   "section": "Desktop",
+   "url": "https://warp.dev/"
+  },
+  {
+   "name": "CleanShot X",
+   "desc": "Ultimate screen capture and recording utility.",
+   "tab": "Utilities",
+   "section": "Desktop",
+   "url": "https://cleanshot.com/"
+  },
+  {
+   "name": "Granola",
+   "desc": "AI notepad generating meeting summaries without bots.",
+   "tab": "Utilities",
+   "section": "Desktop",
+   "url": "https://granola.ai/"
+  },
+  {
+   "name": "LocalSend",
+   "desc": "Share files securely across local Wi-Fi networks.",
+   "tab": "Utilities",
+   "section": "Desktop",
+   "url": "https://localsend.org/"
+  },
+  {
+   "name": "Canario",
+   "desc": "Terminal organizing CLI sessions into panes.",
+   "tab": "Utilities",
+   "section": "Desktop",
+   "url": "https://rioterm.com/canario"
+  },
+  {
+   "name": "CoolDock",
+   "desc": "Secondary dock supporting desktop monitoring widgets.",
+   "tab": "Utilities",
+   "section": "Desktop",
+   "url": "https://cooldock.app/"
+  },
+  {
+   "name": "Supaste",
+   "desc": "Clipboard manager and screenshot history for Mac.",
+   "tab": "Utilities",
+   "section": "Desktop",
+   "url": "https://supaste.com/"
+  },
+  {
+   "name": "Runey",
+   "desc": "Invoicing and client tracking app for freelancers.",
+   "tab": "Utilities",
+   "section": "Desktop",
+   "url": "https://runey.app/"
+  },
+  {
+   "name": "Revone",
+   "desc": "Unified revenue dashboard aggregating payment metrics.",
+   "tab": "Utilities",
+   "section": "Desktop",
+   "url": "https://revone.app/"
+  },
+  {
+   "name": "Zen Browser",
+   "desc": "Firefox fork with vertical tabs and focus.",
+   "tab": "Utilities",
+   "section": "Desktop",
+   "url": "https://zen-browser.app/"
+  },
+  {
+   "name": "Dockset",
+   "desc": "Switch macOS dock layouts per workflow.",
+   "tab": "Utilities",
+   "section": "Desktop",
+   "url": "https://dockset.app/"
+  },
+  {
+   "name": "Screen Studio",
+   "desc": "Screen recorder adding camera zooms automatically.",
+   "tab": "Utilities",
+   "section": "Video & Capture",
+   "url": "https://screen.studio/"
+  },
+  {
+   "name": "Remotion",
+   "desc": "Render high-definition videos programmatically with React.",
+   "tab": "Utilities",
+   "section": "Video & Capture",
+   "url": "https://remotion.dev/"
+  },
+  {
+   "name": "DaVinci Resolve",
+   "desc": "Professional video editing and color grading suite.",
+   "tab": "Utilities",
+   "section": "Video & Capture",
+   "url": "https://www.blackmagicdesign.com/products/davinciresolve"
+  },
+  {
+   "name": "Descript",
+   "desc": "AI video editor where you edit text.",
+   "tab": "Utilities",
+   "section": "Video & Capture",
+   "url": "https://descript.com/"
+  },
+  {
+   "name": "Gifski",
+   "desc": "High-quality video-to-GIF converter preserving framerates.",
+   "tab": "Utilities",
+   "section": "Video & Capture",
+   "url": "https://gif.ski/"
+  },
+  {
+   "name": "Slant It",
+   "desc": "Transforms flat captures into 3D mockups.",
+   "tab": "Utilities",
+   "section": "Video & Capture",
+   "url": "https://slantit.app/"
+  },
+  {
+   "name": "Remocn",
+   "desc": "Remotion animation components for video production.",
+   "tab": "Utilities",
+   "section": "Video & Capture",
+   "url": "https://www.remocn.dev/"
+  },
+  {
+   "name": "BetterShot",
+   "desc": "Screen recorder featuring cursor zoom and captions.",
+   "tab": "Utilities",
+   "section": "Video & Capture",
+   "url": "https://www.bettershot.site/"
+  },
+  {
+   "name": "Recordly",
+   "desc": "Screen recording tool for polished developer demos.",
+   "tab": "Utilities",
+   "section": "Video & Capture",
+   "url": "https://recordly.dev/"
+  },
+  {
+   "name": "Cursorful",
+   "desc": "Screen recorder that automatically tracks cursor.",
+   "tab": "Utilities",
+   "section": "Video & Capture",
+   "url": "https://cursorful.com/"
+  },
+  {
+   "name": "Tokokino",
+   "desc": "In-browser editor for device framing and mockups.",
+   "tab": "Utilities",
+   "section": "Video & Capture",
+   "url": "https://tokokino.com/"
+  },
+  {
+   "name": "KitCut",
+   "desc": "Turn one prompt into a narrated animated video.",
+   "tab": "Utilities",
+   "section": "Video & Capture",
+   "url": "https://kitcut.ai/"
+  },
+  {
+   "name": "tldraw",
+   "desc": "Infinite whiteboard library offering React SDK.",
+   "tab": "Utilities",
+   "section": "Whiteboard",
+   "url": "https://tldraw.com/"
+  },
+  {
+   "name": "Excalidraw",
+   "desc": "Collaborative whiteboard with hand-drawn sketch aesthetic.",
+   "tab": "Utilities",
+   "section": "Whiteboard",
+   "url": "https://excalidraw.com/"
+  },
+  {
+   "name": "Obsidian",
+   "desc": "Local-first Markdown knowledge base with graphs.",
+   "tab": "Utilities",
+   "section": "Whiteboard",
+   "url": "https://obsidian.md/"
+  },
+  {
+   "name": "Linear",
+   "desc": "Project management software setting speed standards.",
+   "tab": "Utilities",
+   "section": "Whiteboard",
+   "url": "https://linear.app/"
+  },
+  {
+   "name": "Emil Kowalski",
+   "desc": "Creator of Sonner, Vaul, and animations.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://emilkowal.ski/"
+  },
+  {
+   "name": "Rauno Freiberg",
+   "desc": "Author of Interaction Guidelines at Vercel.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://rauno.me/"
+  },
+  {
+   "name": "Paco Coursey",
+   "desc": "Creator of cmdk and next-themes.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://paco.me/"
+  },
+  {
+   "name": "Gavin Nelson",
+   "desc": "Designer at OpenAI crafting tactile interfaces.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://nelson.co/"
+  },
+  {
+   "name": "Adam Argyle",
+   "desc": "Chrome DevRel keeping CSS modern.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://nerdy.dev/"
+  },
+  {
+   "name": "Sarah Drasner",
+   "desc": "Engineering leader and web animation author.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://sarahdrasner.com/"
+  },
+  {
+   "name": "Jhey Tompkins",
+   "desc": "Creative developer building playful CSS experiments.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://jhey.dev/"
+  },
+  {
+   "name": "Lynn Fisher",
+   "desc": "Designer behind the Single Div project.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://lynnandtonic.com/"
+  },
+  {
+   "name": "Yogesh",
+   "desc": "Founder behind Remote3, Promptmonitor, and Dray.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://yogesh.co/"
+  },
+  {
+   "name": "shadcn",
+   "desc": "Creator of shadcn/ui and component registries.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://shadcn.com/"
+  },
+  {
+   "name": "Äli",
+   "desc": "Designer building minimal personal software.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://aaali.xyz/"
+  },
+  {
+   "name": "Arlan Marat",
+   "desc": "Design engineer from Waymo and Yandex.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.arlan.me/"
+  },
+  {
+   "name": "Ashish Kashyap",
+   "desc": "Creator of Pikaicons iconography system.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.ashkashyap.me/"
+  },
+  {
+   "name": "Bakemono",
+   "desc": "Design engineer crafting tactile interfaces.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.bakemono.space/"
+  },
+  {
+   "name": "Emmanuel Hong",
+   "desc": "NYC designer crafting digital brand experiences.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.emmanuelhong.com/"
+  },
+  {
+   "name": "Fara Yan",
+   "desc": "CMU designer crafting community interfaces.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://farayan.me/"
+  },
+  {
+   "name": "Flora Guo",
+   "desc": "Product designer at Ramp and Vercel.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.floguo.com/"
+  },
+  {
+   "name": "Glenn Hitchcock",
+   "desc": "Design systems lead at Poolside.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://glenn.me/"
+  },
+  {
+   "name": "Dominik Kandravý",
+   "desc": "Building native macOS tools Hoy and Monocle.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.heyiam.dk/"
+  },
+  {
+   "name": "Hardik Pandya",
+   "desc": "Design and AI leader at Google.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://hvpandya.com/"
+  },
+  {
+   "name": "Noman Ijaz",
+   "desc": "Frontend developer exploring pixel gradients.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://iamnoman.com/"
+  },
+  {
+   "name": "Julien Thibeaut",
+   "desc": "Designer building animations for AI startups.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://ibelick.com/"
+  },
+  {
+   "name": "Jia Chen",
+   "desc": "Creative engineer and prolific hackathon builder.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.jia.build/"
+  },
+  {
+   "name": "Michelle Liu",
+   "desc": "Designer crafting tools across Apple and NASA.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.liumichelle.com/"
+  },
+  {
+   "name": "Yuhang Lu",
+   "desc": "Interface designer from Nothing to xAI.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.luyuhang.net/"
+  },
+  {
+   "name": "Lyle Klyne",
+   "desc": "Technical interface designer at Perplexity.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://lyleklyne.com/"
+  },
+  {
+   "name": "Marcelo Chaman Mallqui",
+   "desc": "Infrastructure engineer building platform tools at Gumloop.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://marcelochaman.ca/"
+  },
+  {
+   "name": "Marijana Pavlinić",
+   "desc": "Brand and devtools designer at Vercel.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://marijanapav.com/"
+  },
+  {
+   "name": "Michael Alexander",
+   "desc": "Visual artist and typographer.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.mek.gallery/"
+  },
+  {
+   "name": "Nick Jones",
+   "desc": "Experimental interface designer behind Stripe Press.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.narrowdesign.com/"
+  },
+  {
+   "name": "Stuart Regan",
+   "desc": "Product designer crafting efficient software workflows.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://stuart.re/"
+  },
+  {
+   "name": "Vijay Verma",
+   "desc": "Indie game maker and studio founder.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://vjy.me/"
+  },
+  {
+   "name": "Benji Taylor",
+   "desc": "Creator of Agentation and Honk.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://benji.org/"
+  },
+  {
+   "name": "Aniket Pawar",
+   "desc": "Frontend engineer in the shadcn ecosystem.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.aniketpawar.com/"
+  },
+  {
+   "name": "Aaron Mahlke",
+   "desc": "Design engineer crafting tactile web experiments.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.mahlke.design/"
+  },
+  {
+   "name": "Grizz",
+   "desc": "Interaction designer building expressive web experiments.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://grizz.fyi/"
+  },
+  {
+   "name": "Alistair Smith",
+   "desc": "Software engineer at Anthropic on Claude Code.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://alistair.sh/"
+  },
+  {
+   "name": "David Umoru",
+   "desc": "Creative technologist building ASCII art tools.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://davidumoru.me/"
+  },
+  {
+   "name": "Fabian Arbor",
+   "desc": "Creative director crafting distinct brand identities.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://fabianarbor.com/"
+  },
+  {
+   "name": "Praveen Juge",
+   "desc": "Designer writing on interface accessibility.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://praveenjuge.com/"
+  },
+  {
+   "name": "Lokendra Kushwah",
+   "desc": "Frontend engineer building AI-driven interfaces.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://lokiii.me/"
+  },
+  {
+   "name": "Jakub Krehel",
+   "desc": "Founding design engineer at Interfere.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://jakub.kr/"
+  },
+  {
+   "name": "Ishaan Dey",
+   "desc": "Design engineer and creator of Shadow.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.ishaand.com/"
+  },
+  {
+   "name": "Tushaar Mehta",
+   "desc": "Creative director designing AI-first products.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.tushaarmehtaa.xyz/"
+  },
+  {
+   "name": "Kai Nair",
+   "desc": "Creative technologist designing expressive brand systems.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://ikeacrisp.com/"
+  },
+  {
+   "name": "Paolo Nessim",
+   "desc": "Engineer building real-time systems and robotics.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.paolonessim.com/"
+  },
+  {
+   "name": "Ashish Gogula",
+   "desc": "Design engineer building Xenon.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.ashishgogula.in/"
+  },
+  {
+   "name": "Ruru",
+   "desc": "Design engineer building Ruru UI.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://ruru.build/"
+  },
+  {
+   "name": "Harsh Singh",
+   "desc": "Software engineer exploring minimalist design.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.harshsingh.me/"
+  },
+  {
+   "name": "Rohit Singh Rawat",
+   "desc": "Full-stack engineer crafting SaaS products.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://rohitsinghrawat.com/"
+  },
+  {
+   "name": "Preet Suthar",
+   "desc": "Design engineer building open-source tools.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://preetsuthar.me/"
+  },
+  {
+   "name": "Maze",
+   "desc": "Design engineer and creator of Moodist.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://remvze.com/"
+  },
+  {
+   "name": "Siddharth",
+   "desc": "Full-stack engineer crafting interactive UI.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://siddz.com/"
+  },
+  {
+   "name": "Sam",
+   "desc": "Design engineer building motion-driven web apps.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://samworks.vercel.app/"
+  },
+  {
+   "name": "Dhruv Suthar",
+   "desc": "Community Engineer at Raycast.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://dhrv.pw/"
+  },
+  {
+   "name": "Rahul Singh Bhadoriya",
+   "desc": "Visual designer and founder of Dacoit Design.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://rahulbhadoriya.com/"
+  },
+  {
+   "name": "Manu Arora",
+   "desc": "Creator of Aceternity UI and TailwindMasterKit.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://manuarora.in/"
+  },
+  {
+   "name": "Swami Malode",
+   "desc": "Design engineer building VidStudio and Rare UI.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://swamii.me/"
+  },
+  {
+   "name": "Shawn Dsilva",
+   "desc": "Creator of Dot Matrix and Orbkit.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.shwn.design/"
+  },
+  {
+   "name": "Shivam",
+   "desc": "Full-stack developer building scalable web interfaces.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.10xshivam.dev/"
+  },
+  {
+   "name": "Rohit Mehta",
+   "desc": "Developer building Negativ UI.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://portfolio.negativ.in/"
+  },
+  {
+   "name": "Ratnesh Chipre",
+   "desc": "Design engineer building Draftlogo.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://ratneshc.com/"
+  },
+  {
+   "name": "Shivraj Roy",
+   "desc": "Frontend engineer focused on micro-animations.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.shivrajroy.in/"
+  },
+  {
+   "name": "Vansh Nagar",
+   "desc": "Creator of ASCII Studio and web tools.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.vanshnagar.com/"
+  },
+  {
+   "name": "Harsh Jadhav",
+   "desc": "Design engineer and creator of Componentry.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://harshjdhv.com/"
+  },
+  {
+   "name": "Aaryan",
+   "desc": "Creator of Sileo physics-based toast components.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://aaryan.design/"
+  },
+  {
+   "name": "Atharvsinh Jadav",
+   "desc": "Full-stack developer building ObsidianUI.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://athrix.me/"
+  },
+  {
+   "name": "Divyansh Swarnkar",
+   "desc": "Full-stack developer building performant web apps.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://divyanshh.tech/"
+  },
+  {
+   "name": "Gurbinder",
+   "desc": "Design engineer building Skiper UI and EvilCharts.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://gurbinder.dev/"
+  },
+  {
+   "name": "Ashutosh Singh",
+   "desc": "Creator of Vengeance UI building AI interfaces.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.ashutoshx7.me/"
+  },
+  {
+   "name": "Palak Sharma",
+   "desc": "Full-stack developer crafting 3D WebGL interfaces.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://palakonweb.in/"
+  },
+  {
+   "name": "Aman Shakya",
+   "desc": "Design engineer building Forge UI and Statsio.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://amanshakya.in/"
+  },
+  {
+   "name": "Mihir Aman Raj",
+   "desc": "Creative developer building atomix/ui experiments.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.mihircodes.in/"
+  },
+  {
+   "name": "Prasanjit Dey",
+   "desc": "Design engineer and creator of Insposite.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.prasanjitdey.com/"
+  },
+  {
+   "name": "Chánh Đại",
+   "desc": "Design engineer building React Wheel Picker.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://chanhdai.com/"
+  },
+  {
+   "name": "Sophie Manalo",
+   "desc": "Creative developer building expressive web interfaces.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.sophiamanalo.com/"
+  },
+  {
+   "name": "Abhinav Kale",
+   "desc": "Design engineer crafting minimal web experiments.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://abhi.at/"
+  },
+  {
+   "name": "Karaan",
+   "desc": "Frontend engineer focusing on UI craft.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.karaan.me/"
+  },
+  {
+   "name": "Ram",
+   "desc": "Frontend developer building interactive web products.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://ramx.in/"
+  },
+  {
+   "name": "Victor Williams",
+   "desc": "Design engineer crafting modern digital experiences.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.victorwilliams.me/"
+  },
+  {
+   "name": "Umesh Nagare",
+   "desc": "Full-stack engineer building clean user interfaces.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://umeshnagare.com/"
+  },
+  {
+   "name": "Gautam",
+   "desc": "Full-stack developer building open-source tools.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.heygautam.com/"
+  },
+  {
+   "name": "Atharva Mhaske",
+   "desc": "Frontend developer building creative web experiments.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://atharvaxdevs.xyz/"
+  },
+  {
+   "name": "Janina",
+   "desc": "Product designer crafting interactive interfaces.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://janina.works/"
+  },
+  {
+   "name": "Unlimited Studio",
+   "desc": "Independent studio crafting bespoke digital identities.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://unlimited.studio/"
+  },
+  {
+   "name": "Manish Kumar",
+   "desc": "Frontend developer building sleek web interfaces.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.manixh.dev/"
+  },
+  {
+   "name": "Dhruv",
+   "desc": "Design engineer crafting interactive tactile software.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://jdhruv.dev/"
+  },
+  {
+   "name": "Sahil Singh",
+   "desc": "Frontend developer crafting interactive React components.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://sahilcodex.vercel.app/"
+  },
+  {
+   "name": "Nexvyn",
+   "desc": "Design engineer building nexvyn/ui components.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://nexvyn.dev/"
+  },
+  {
+   "name": "Syed Subhan",
+   "desc": "Creative developer crafting 3D shader experiments.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.syedsubhan.in/"
+  },
+  {
+   "name": "Jay",
+   "desc": "Design engineer building Evil Buttons and Mascot.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.radiumcoders.com/"
+  },
+  {
+   "name": "Chidu",
+   "desc": "Product designer crafting considered web interactions.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://chidu.me/"
+  },
+  {
+   "name": "Connor Hepburn",
+   "desc": "Engineer developing Creed and web agents.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://hpbrn.cc/"
+  },
+  {
+   "name": "Pratham",
+   "desc": "Product designer crafting high-craft landing pages.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.pratham.me/"
+  },
+  {
+   "name": "Offgrid",
+   "desc": "Branding studio crafting identities for tech companies.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://offgrid.inc/"
+  },
+  {
+   "name": "Daniel White",
+   "desc": "Design engineer and founder of textmotion.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.danielwhite.uk/"
+  },
+  {
+   "name": "Sasha Balandina",
+   "desc": "Product designer crafting typography-focused interfaces.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://sashabalandina.com/"
+  },
+  {
+   "name": "Timothy Maarv",
+   "desc": "Product designer crafting 0-to-1 software experiences.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.timothymaarv.me/"
+  },
+  {
+   "name": "Soren Blank",
+   "desc": "Design engineer crafting fluid micro-interactions.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://sorenblank.com/"
+  },
+  {
+   "name": "Ozzy",
+   "desc": "Design engineer building interior.dev micro-interactions.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.ozzyx.xyz/"
+  },
+  {
+   "name": "Utsav Gupta",
+   "desc": "Full-stack engineer building AI agents.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.utsavworks.in/"
+  },
+  {
+   "name": "Saurabh Sharma",
+   "desc": "Design engineer building Great UI components.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.srbh.site/"
+  },
+  {
+   "name": "Iteration",
+   "desc": "Design studio founded by Josh Puckett.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://iteration.design/"
+  },
+  {
+   "name": "Josh Puckett",
+   "desc": "Founder of Iteration and DialKit.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://joshpuckett.me/"
+  },
+  {
+   "name": "Mery Kaftar",
+   "desc": "Design engineer at Vercel crafting AI interfaces.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://merycodes.com/"
+  },
+  {
+   "name": "Lele Zhang",
+   "desc": "Product designer exploring thoughtful AI interfaces.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://lelezhang.design/"
+  },
+  {
+   "name": "Pranathi Peri",
+   "desc": "Designer at Anthropic on Claude Code.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://pranathiperi.com/"
+  },
+  {
+   "name": "Airla Fan",
+   "desc": "Digital designer at YouTube crafting visual systems.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://airladesigns.com/"
+  },
+  {
+   "name": "Mariana Castilho",
+   "desc": "Product designer and engineer at Profound.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.mrncst.computer/"
+  },
+  {
+   "name": "Evil Rabbit",
+   "desc": "Head of Design at Vercel.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.evilrabbit.com/"
+  },
+  {
+   "name": "Dominik Martin",
+   "desc": "Product designer building modern digital products.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://dominikmart.in/"
+  },
+  {
+   "name": "Tom",
+   "desc": "Creator of Spell UI crafting component kits.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://tomm.page/"
+  },
+  {
+   "name": "Dan Hollick",
+   "desc": "Design engineer at Cursor.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://old.alcohollick.com/"
+  },
+  {
+   "name": "Anthony Fu",
+   "desc": "Open-source creator and Vue core team member.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://antfu.me/"
+  },
+  {
+   "name": "Paul Bakaus",
+   "desc": "Creator of jQuery UI building AI tools.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://paulbakaus.com/"
+  },
+  {
+   "name": "Aditya Sur",
+   "desc": "Designer and developer crafting digital experiences.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://ample.studio/"
+  },
+  {
+   "name": "Raphael Salaja",
+   "desc": "Design engineer pushing boundaries in interface craft.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://www.raphaelsalaja.com/"
+  },
+  {
+   "name": "Ana Howard",
+   "desc": "Design engineer in London crafting thoughtful interfaces.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://ana.sh/"
+  },
+  {
+   "name": "Jakub Antalík",
+   "desc": "Product designer and Design Lead at Fun.xyz.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://jakubantalik.com/"
+  },
+  {
+   "name": "Henry Heffernan",
+   "desc": "Creative developer known for the OS portfolio.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://henryheffernan.com/"
+  },
+  {
+   "name": "Wojtek Witkowski",
+   "desc": "Staff UI engineer at Coinbase.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://wojtek.im/"
+  },
+  {
+   "name": "Akash Bhadange",
+   "desc": "Product designer and founder of Peerlist.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://designerdada.com/"
+  },
+  {
+   "name": "Aiden Bai",
+   "desc": "Founder of Million.js and React Scan.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://aidenybai.com/"
+  },
+  {
+   "name": "Shu Ding",
+   "desc": "Designer and engineer at Vercel.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://shud.in/"
+  },
+  {
+   "name": "Danilo Woznica",
+   "desc": "Creator of react-content-loader component library.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://danilowoz.com/"
+  },
+  {
+   "name": "Daryl Ginn",
+   "desc": "Founder of System Studio and Minimal Gallery.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://system.studio/"
+  },
+  {
+   "name": "Gunnar Gray",
+   "desc": "Product Design Lead at Perplexity AI.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://gunnargray.com/"
+  },
+  {
+   "name": "Todd Hamilton",
+   "desc": "Product designer and developer building AIProxy.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://toddham.com/"
+  },
+  {
+   "name": "Zaid Mukaddam",
+   "desc": "Creator of Scira AI conversational search.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://zaidmukaddam.com/"
+  },
+  {
+   "name": "Kartik Labhshetwar",
+   "desc": "Software engineer building AI memory at Mem0.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://kartiklabhshetwar.com/"
+  },
+  {
+   "name": "Saurabh",
+   "desc": "Design engineer building beUI, a motion component library.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://saura3h.xyz/"
+  },
+  {
+   "name": "Daryl Patigas",
+   "desc": "Founding designer at Lottielab.",
+   "tab": "Design Engineers",
+   "section": "Design engineers to follow",
+   "url": "https://imdaryl.com/"
+  }
+ ]
+}
